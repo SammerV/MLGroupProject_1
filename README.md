@@ -1,5 +1,5 @@
 # MLGroupProject_1
-This is a group project that I did with 2 of my partners, Cheryl Aurellia and Cynthia Anne with intentions to contribute to the health field using predictive Machine Learning model.  
+This is a group project that I did with 2 of my partners, Cheryl Aurellia and Cynthia Anne with intentions to contribute to the health field using predictive Machine Learning model in detecting cardiovascular diseases' risk.  
 
 Cardiovascular diseases are illnesses that affect the heart and blood vessels. They include conditions like heart attacks, high blood pressure, heart failure, and strokes. These diseases are one of the main causes of death worldwide, so understanding them is very important for preventing and treating them. 
 
